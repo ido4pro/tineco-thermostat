@@ -4,22 +4,41 @@
 ## Hardware
 
 
-Tineco est un thermostat wifi pour radiateur électrique basé la puce ESP8266.
+Tineco est un thermostat connecté en wifi pour piloter une chaudière ou un radiateur électrique.
 
-Tineco pilote le radiateur à travers un relai 10 ampères.
+![electronic board](images/electronic-board-small.png)
 
-Tineco dispose d'une sonde de température et d'un capteur de mesure du courant consommé par le radiateur.
+Tineco est basé sur la puce ESP8266 qui dispose d'un kit de développement permettant de personnaliser facilement son firmware.
 
-Tineco s'auto-alimente à travers un convertisseur AC/DC.
+Tineco dispose d'une sonde de température et d'un relai 10 A avec un capteur de mesure du courant consommé.
+
+Tineco s'auto-alimente à travers son entrée 220v à travers un convertisseur AC/DC intégré.
 
 Le software de l'ESP8266 est surveillé par un watchdog matériel qui le reset lorsqu'il ne donne plus signe de vie.
 
 ![hardware](images/tineco-hardware.png)
 
+![esp8266](images/esp8266-core.png)
+
+![power](images/power-AC-DC.png)
+
+![temperature humidity sensor](images/tem-hum-sensor.png)
+
+![one wire bus](images/one-wire-bus.png)
+
+![relay with current sensor](images/relay-with-current-sensor.png)
+
+![power](images/zero-detection.png)
+
+![power](images/current-input.png)
+
+
 ## Software
 
 
-Les sources de Tineco s'appuie sur le framework [sming](https://github.com/SmingHub)
+Les codes sources de Tineco s'appuie sur le framework [sming](https://github.com/SmingHub) et le language C++. 
+
+Ils seront prochainement mis à disposition.
 
 ## Setting
 
