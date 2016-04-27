@@ -1,6 +1,6 @@
 # Tineco
 
-[](https://github.com/ido4pro/tineco/blob/master/LISEZMOI.md) [Version française]
+[Version française](https://github.com/ido4pro/tineco/blob/master/LISEZMOI.md)
 
 ## Hardware
 
