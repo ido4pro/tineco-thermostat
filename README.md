@@ -1,6 +1,8 @@
-# Tineco
+# Tineco Thermostat
 
 [](https://github.com/ido4pro/tineco/blob/master/LISEZMOI.md) [Version française]
+
+[![Analytics](https://ga-beacon.appspot.com/UA-77079936-1/tineco-thermostat/readme)](https://github.com/ido4pro/tineco-thermostat)
 
 ## Hardware
 
