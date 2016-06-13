@@ -37,6 +37,10 @@ A hardware watchdog detect failure of the firmware and restart automaticaly the 
 
 ![power](images/current-input.png)
 
+## IDE
+
+Start a full preset ide with compiler in one line  : https://github.com/ido4pro/tineco-thermostat.git
+
 
 ## Software
 
