@@ -39,7 +39,7 @@ A hardware watchdog detect failure of the firmware and restart automaticaly the 
 
 ## IDE
 
-Start a full preset ide with compiler in one line  : https://github.com/ido4pro/tineco-thermostat.git
+Start a full preset ide with compiler in one line  : https://github.com/ido4pro/tineco-sming-ide-docker
 
 
 ## Software
