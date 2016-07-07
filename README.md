@@ -1,11 +1,12 @@
 # Tineco Thermostat
 
+More information : http://tineco.ido4pro.com
+
 [Version française](https://github.com/ido4pro/tineco/blob/master/LISEZMOI.md)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-77079936-1/tineco-thermostat/readme)](https://github.com/ido4pro/tineco-thermostat)
 
 ## Hardware
-
 
 Tineco is a WIFI thermostat to control your boiler system or one electrical heater.
 
@@ -23,6 +24,19 @@ A hardware watchdog detect failure of the firmware and restart automaticaly the 
 
 ![hardware](images/tineco-hardware.png)
 
+## IDE
+
+Start a full preset ide with compiler in one line  : https://github.com/ido4pro/tineco-sming-ide-docker
+
+
+## Software
+
+The source code is written in C++ and based on the sming framework : [sming](https://github.com/SmingHub) et le language C++. 
+
+Start with this project : https://github.com/ido4pro/tineco-starter-project
+
+## Schematics
+
 ![esp8266](images/esp8266-core.png)
 
 ![power](images/power-AC-DC.png)
@@ -37,16 +51,6 @@ A hardware watchdog detect failure of the firmware and restart automaticaly the 
 
 ![power](images/current-input.png)
 
-## IDE
-
-Start a full preset ide with compiler in one line  : https://github.com/ido4pro/tineco-sming-ide-docker
-
-
-## Software
-
-The source code is written in C++ and based on the sming framework : [sming](https://github.com/SmingHub) et le language C++. 
-
-The source code will published soon.
 
 ## Author
 
